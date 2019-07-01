@@ -1,2 +1,0 @@
-# todoAppByReactHooks
-Created with CodeSandbox
